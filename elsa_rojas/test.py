@@ -53,3 +53,19 @@ assert (libreria.tro("cde")=="cde")
 assert (libreria.tro("FGHI")=="FGHI")
 print("tro")
 
+#EJERCICIO 12
+assert (libreria.amor("MARGARITA")=="MARGARITA")
+assert (libreria.amor("jose")=="jose")
+print("amor")
+
+#EJERCICIO 13
+assert (libreria.cm("elida")=="ELIDA")
+assert (libreria.cm("juan")=="juan")
+print("cm")
+
+#EJERCICIO 14
+assert (libreria.mary("jarra")=="jarra")
+assert (libreria.mary("regar")=="regar")
+print("mary")
+
+

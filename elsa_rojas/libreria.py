@@ -88,7 +88,30 @@ def tro(tr):
 #FIN
 
 #ejercicio 12
+def amor(str):
+    if(str=="MARGARITA"):
+        return str.lower()
+    else:
+        return str
+#FIN
 
+
+#ejercicio 13
+def cm(cad):
+    if(cad=="elida"):
+        return cad.upper()
+    else:
+        return cad
+#FIN
+
+
+#ejercicio 14
+def mary(mr):
+    if(mr=="jarra"):
+        return mr.isascii()
+    else:
+        return mr
+#FIN
 
 
 
