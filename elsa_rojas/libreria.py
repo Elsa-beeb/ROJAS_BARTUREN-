@@ -63,6 +63,34 @@ def maria(vc):
         return vc
 #FIN
 
+#ejercicio 09
+def cool(co):
+    if(co=="isolina"):
+        return co.split()
+    else:
+        return co
+#FIN
+
+#ejercicio 10
+def cris(cr):
+    if(cr=="llora"):
+        return cr.strip()
+    else:
+        return cr
+#FIN
+
+#ejercicio 11
+def tro(tr):
+    if(tr=="atv"):
+        return tr.isalpha()
+    else:
+        return tr
+#FIN
+
+#ejercicio 12
+
+
+
 
 
 

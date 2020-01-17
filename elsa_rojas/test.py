@@ -38,3 +38,18 @@ assert (libreria.cool(" rosa ")==" rosa ")
 assert (libreria.cool(" belen ")==" belen ")
 print("cool")
 
+#EJERCICIO 09
+assert (libreria.maria(457)==457)
+assert (libreria.maria("789")=="789")
+print("maria")
+
+#EJERCICIO 10
+assert (libreria.lidia("llora")=="llora")
+assert (libreria.lidia("peru")=="peru")
+print("lidia")
+
+#EJERCICIO 11
+assert (libreria.tro("cde")=="cde")
+assert (libreria.tro("FGHI")=="FGHI")
+print("tro")
+
